@@ -34,5 +34,7 @@ These projects were designed by TexaFlow's lead engineer during his work for LLC
 
 ## Links
 - [Website](https://texaflow.dpdns.org/): services, projects, process, FAQ
+- [Website in Slovak](https://texaflow.dpdns.org/sk/): slovenská verzia
+- [Website in Czech](https://texaflow.dpdns.org/cz/): česká verze
 - [Portfolio PDF](https://texaflow.dpdns.org/TexaFlow_Portfolio_EN.pdf): 7-page engineering portfolio in English
 - Contact e-mail: texaflow302@gmail.com
