@@ -23,4 +23,4 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
-Sitemap: https://bohdan348.github.io/texaflow/sitemap.xml
+Sitemap: https://texaflow.dpdns.org/sitemap.xml
